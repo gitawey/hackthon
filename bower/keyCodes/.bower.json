@@ -1,0 +1,26 @@
+{
+  "name": "lodash-validated-assign",
+  "version": "0.0.1",
+  "homepage": "https://github.com/helion3/lodash-validated-assign",
+  "authors": [
+    "Mike Botsko <botsko@gmail.com>"
+  ],
+  "description": "Validates object properties before assignment",
+  "license": "MIT",
+  "dependencies": {},
+  "main": "dist/lodash-validated-assign.min.js",
+  "ignore": [
+    "test"
+  ],
+  "devDependencies": [],
+  "private": false,
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "ff68ac478d8b1713f10ddcd1ff0fb416fd7dba42"
+  },
+  "_source": "git://github.com/helion3/keyCodes.git",
+  "_target": "0.0.1",
+  "_originalSource": "keyCodes"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "knockout-repeat",
+  "homepage": "https://github.com/mbest/knockout-repeat",
+  "version": "2.0.0",
+  "_release": "2.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.0",
+    "commit": "70e17572d76afa369319382677ba74fded4ee380"
+  },
+  "_source": "git://github.com/mbest/knockout-repeat.git",
+  "_target": "~2.0.0",
+  "_originalSource": "knockout-repeat"
+}

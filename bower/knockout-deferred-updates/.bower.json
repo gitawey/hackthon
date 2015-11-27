@@ -1,0 +1,14 @@
+{
+  "name": "knockout-deferred-updates",
+  "homepage": "https://github.com/mbest/knockout-deferred-updates",
+  "version": "3.2.1",
+  "_release": "3.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.2.1",
+    "commit": "97db5917d3fcb9a1cb178cbd9143765f0fb023b6"
+  },
+  "_source": "git://github.com/mbest/knockout-deferred-updates.git",
+  "_target": "~3.2.1",
+  "_originalSource": "knockout-deferred-updates"
+}
